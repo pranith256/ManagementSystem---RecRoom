@@ -1,0 +1,97 @@
+.rec{
+  width: 50px;
+  height: 50px;
+  opacity: 0.6;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  border-radius: 50%;
+  animation: x 12s infinite alternate, y 4s linear infinite alternate;
+}
+
+.rec1{
+  width: 30px;
+  height: 30px;
+  opacity: 0.6;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  border-radius: 50%;
+  animation: x 13s infinite alternate, y 5s linear infinite alternate;
+  
+}
+
+
+@keyframes x {
+  100% {
+    transform: translateX( calc(100vw - 20px) );
+  }
+}
+
+@keyframes y {
+  100% {
+    transform: translateY( calc(100vh - 20px) );
+  }
+}
+
+@keyframes spin {
+  from {
+      transform:rotate(0deg);
+  }
+  to {
+      transform:rotate(360deg);
+  }
+}
+
+
+.season {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.par {
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Luckiest Guy", cursive;
+	font-size: 4rem;
+	letter-spacing: 0.4rem;
+	width: 100%;
+	height: 100%;
+	color: white;
+	background: black;
+	text-align: center;
+	mix-blend-mode: multiply;
+	text-shadow: -3px 3px 0px black, -6px 6px 0px white, -12px 12px 0px purple;
+}
+
+.one {
+	background: url("https://images.unsplash.com/photo-1634474559500-c934afa9f01f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNzA4OTcyNg&ixlib=rb-1.2.1&q=85");
+	background-position: bottom right;
+	background-size: cover;
+}
+
+.two {
+	background: url("https://images.unsplash.com/photo-1634151527394-02a59150c521?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNzA4OTMwNA&ixlib=rb-1.2.1&q=85");
+	background-position: top;
+	background-size: cover;
+}
+
+.three {
+	background: url("https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNzA5MDU2NQ&ixlib=rb-1.2.1&q=85");
+	background-position: bottom left;
+	background-size: cover;
+}
+
+.four {
+	background: url("https://images.unsplash.com/photo-1453959022778-cfda85dbe0f9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNzA4NjY0NQ&ixlib=rb-1.2.1&q=85");
+	background-position: center;
+	background-size: cover;
+}

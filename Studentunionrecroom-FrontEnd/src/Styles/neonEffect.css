@@ -1,0 +1,94 @@
+.bowlingText{
+    color: #e74c3c;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 1px;
+	font-family: 'Bungee Shade'; 
+    text-shadow: 0 0 5px #e74c3c,
+	0 0 10px #e74c3c,
+	0 0 15px #e74c3c,
+	0 0 20px #e74c3c;
+}
+
+.billiardsText{
+    color: #3498db;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 1px;
+	font-family: 'Bungee Shade'; 
+    text-shadow: 0 0 5px #3498db,
+	0 0 10px #3498db,
+	0 0 15px #3498db,
+	0 0 20px #3498db;
+}
+
+.registerPageTableBody{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.headerText{
+    margin-top: 8em;
+}
+
+@media only screen and (max-width: 1024px) {
+    .registerPageTableBody{
+        display: flex;
+        justify-content: center;
+        margin-top: 2em;
+    }
+}
+
+.registerPageTable{
+    font-size: 1em;
+}
+
+tbody{
+    padding: 20px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+
+.wrapper {
+	text-align: center;
+}
+.wrapper h6 {
+		color: #fff;
+		font-size: 26px;
+		text-transform: uppercase;
+		font-weight: 600;
+		font-family: "Josefin Sans", sans-serif;
+		background: linear-gradient(to right,#3d4caf 10%, #f5af71 50%, #84b1a4 60%);
+		background-size: auto auto;
+		background-clip: border-box;
+		background-size: 200% auto;
+		color: #fff;
+		background-clip: text;
+		text-fill-color: transparent;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		animation: textclip 1.5s linear infinite;
+		display: inline-block;
+	}
+
+
+@keyframes textclip {
+	to {
+		background-position: 200% center;
+	}
+}
+
+/* tbody tr td:last-child {
+    border: 0px;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: black;
+  } */
+
+  
