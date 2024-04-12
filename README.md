@@ -19,10 +19,11 @@ Backend: NodeJS, SQL
 <img width="1440" alt="Screenshot 2024-04-12 at 1 49 48 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/0bafcf3b-9c50-44ac-8c01-949f683a511c">
 
 # Successful Registration and Sequence number: Token Generation for Tracking
-<img width="1440" alt="Screenshot 2024-04-12 at 2 20 29 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/b80c5488-678f-4413-b555-81635159e40c">
+<img width="1440" alt="Screenshot 2024-04-12 at 2 26 59 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/f224a81b-9d5c-44be-8f05-aedc917c5cc4">
 
 # Choosing the Game: Filter Functionality for Customers
-<img width="1440" alt="Screenshot 2024-04-12 at 2 19 33 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/c3477733-110f-4cb6-9e5e-327322d305ad">
+<img width="1440" alt="Screenshot 2024-04-12 at 2 26 02 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/ef66bd45-3580-411d-bc84-4ee96795722a">
+
 
 
 # To run the project :
