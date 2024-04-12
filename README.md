@@ -16,7 +16,7 @@ Front end: React
 Backend: NodeJS, SQL
 
 # Customer Registration: Real-time turn updates on the screen.
-<img width="1440" alt="Screenshot 2024-04-12 at 1 50 12 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/f18b3aad-b636-48da-9893-93861132c2ee">
+<img width="1440" alt="Screenshot 2024-04-12 at 1 49 48 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/0bafcf3b-9c50-44ac-8c01-949f683a511c">
 
 # Successful Registration and Sequence number: Token Generation for Tracking
 <img width="1440" alt="Screenshot 2024-04-12 at 2 20 29 AM" src="https://github.com/pranith256/ManagementSystem---RecRoom/assets/64703814/b80c5488-678f-4413-b555-81635159e40c">
@@ -28,3 +28,4 @@ Backend: NodeJS, SQL
 # To run the project :
 
 npm start in the terminal
+
